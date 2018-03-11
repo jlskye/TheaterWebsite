@@ -1,0 +1,323 @@
+{
+    "recommendation":[
+        {
+            "href":"#",
+            "content":"《阿甘正传》做最好的自己，别停下你的脚步。"
+        },
+        {
+            "href":"#",
+            "content":"《盗梦空间》发生在意识结构内的当代动作科幻片。"
+        },
+        {
+            "href":"#",
+            "content":"《海上钢琴师》他用音乐解读一生，音乐是他对人生的感悟。"
+        },
+        {
+            "href":"www.baidu.com",
+            "content":"《美丽人生 》美国电影史上最卖座的外语片。"
+        },
+        {
+            "href":"www.baidu.com",
+            "content":"《三傻大闹宝莱坞》史上最爆笑温情的印度电影。"
+        },
+        {
+            "href":"www.baidu.com",
+            "content":"《辛德勒的名单》深刻揭露德国纳粹屠杀犹太人恐怖罪行的奥斯卡最佳电影。"
+        },
+        {
+            "href":"www.baidu.com",
+            "content":"《放牛班的春天》开创了法国情感电影新概念。"
+        },
+        {
+            "href":"www.baidu.com",
+            "content":"《美丽谎言》美丽的谎言，更好的人生。"
+        },
+        {
+            "href":"www.baidu.com",
+            "content":"《极速蜗牛》请拿出行动去证明你的梦想给我看。"
+        },
+        {
+            "href":"www.baidu.com",
+            "content":"《烈日灼心》凝视深渊过久，不见光明始终。"
+        }
+    ],
+    "movie_type":[
+		{
+			"href":"/classify/武侠（action movies）",
+			"name":"武侠"
+        },
+        {
+			"href":"/classify/恐怖（horrible movies）",
+			"name":"恐怖"
+        },
+        {
+			"href":"/classify/古装（ancient costume movies）",
+			"name":"古装"
+        },
+        {
+			"href":"/classify/歌舞（song and dance movies）",
+			"name":"歌舞"
+        },
+        {
+			"href":"/classify/儿童（children's movies）",
+			"name":"儿童"
+        },
+        {
+			"href":"/classify/运动（sports movies）",
+			"name":"运动"
+        },
+        {
+			"href":"/classify/纪录片（documentary movies）",
+			"name":"纪录片"
+        },
+        {
+			"href":"/classify/西部（western movies）",
+			"name":"西部"
+        },
+        {
+			"href":"/classify/冒险（adventurous movies）",
+			"name":"冒险"
+        },
+        {
+			"href":"/classify/音乐（music movies）",
+			"name":"音乐"
+		    },
+       {
+			"href":"/classify/传记（Biopic）",
+			"name":"传记"
+		    },
+       {
+			"href":"/classify/战争（war movies）",
+			"name":"战争"
+		    },
+       {
+			"href":"/classify/奇幻（fantasy movies）",
+			"name":"奇幻"
+		    },
+       {
+			"href":"/classify/爱情（love movies）",
+			"name":"爱情"
+		    },
+       {
+			"href":"/classify/家庭（family movies）",
+			"name":"家庭"
+		    },
+       {
+			"href":"/classify/剧情（feature movies）",
+			"name":"剧情"
+		    },
+       {
+			"href":"/classify/惊悚（thriller movies）",
+			"name":"惊悚"
+		    },
+       {
+			"href":"/classify/灾难（disaster movies）",
+			"name":"灾难"
+		    },
+       {
+			"href":"/classify/犯罪（crime  movies）",
+			"name":"犯罪"
+		    },
+       {
+			"href":"/classify/动作（action movies）",
+			"name":"动作"
+		    },
+       {
+			"href":"/classify/动画（animated movies）",
+			"name":"动画"
+		    },
+      {
+			"href":"/classify/科幻（science fiction movies）",
+			"name":"科幻"
+		    },
+      {
+			"href":"/classify/悬疑（suspense movies）",
+			"name":"悬疑"
+		    },
+      {
+			"href":"/classify/喜剧（comedy movies）",
+			"name":"喜剧"
+		    }
+    ],
+    "shuffle_movie":[
+        {
+            "id":1,
+            "name":"大鱼",
+            "img_src":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p692813374.jpg"
+        },
+        {
+            "id":2,
+            "name":"霸王别姬",
+            "img_src":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1910813120.jpg"
+        },
+        {
+            "id":3,
+            "name":"死亡诗社",
+            "img_src":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1910824340.jpg"
+        },
+        {
+            "id":4,
+            "name":"放牛班的春天",
+            "img_src":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1910824951.jpg"
+        },
+        {
+            "id":5,
+            "name":"房间",
+            "img_src":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2259715855.jpg"
+        },
+        {
+            "id":6,
+            "name":"心迷宫",
+            "img_src":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2275298525.jpg"
+        }
+    ],
+    "swiper_movie":[
+        {
+            "img_src":"http://10wallpaper.com/wallpaper/medium/1308/The_Hangover_Part_III_Movie_HD_Desktop_Wallpaper_medium.jpg",
+			"href":"#"
+        },
+        {
+            "img_src":"http://10wallpaper.com/wallpaper/medium/1302/The_Host_2013_Movie_HD_Desktop_Wallpaper_medium.jpg",
+			"href":"#"
+        },
+        {
+            "img_src":"http://10wallpaper.com/wallpaper/medium/1501/interstellar_matthew_mcconaughey-Movie_High_Quality_Wallpaper_medium.jpg",
+			"href":"#"
+        },
+        {
+            "img_src":"http://10wallpaper.com/wallpaper/medium/1205/Human_Target_TV_series_HD_Wallpaper_medium.jpg",
+			"href":"#"
+        },
+        {
+            "img_src":"http://10wallpaper.com/wallpaper/medium/1105/2011_Movie_Sucker_Punch_Wallpaper_01_medium.jpg",
+			"href":"#"
+        },
+        {
+            "img_src":"http://10wallpaper.com/wallpaper/medium/1709/Supergirl-2017_Movie_HD_Wallpapers_medium.jpg",
+			"href":"#"
+        },
+        {
+            "img_src":"http://10wallpaper.com/wallpaper/medium/1105/Kung_Fu_Panda_Wallpaper__medium.jpg",
+			"href":"#"
+        }
+    ],
+    "swiper_movie_text":[
+        {
+            "text":"《龙猫》只有好孩子才能看到的可爱精灵",
+            "href":"#"
+        },
+        {
+            "text":"《霸王别姬》通俗中见斑斓，曲高而和者众",
+            "href":"#"
+        },
+        {
+            "text":"《泰坦尼克号 》史诗级的爱情灾难电影，11座奥斯卡金像奖获得者",
+            "href":"#"
+        },
+        {
+            "text":"《教父》男人必看的黑帮史诗巨片",
+            "href":"#"
+        },
+        {
+            "text":"《忠犬八公的故事》水来我在水中等你，火来我在灰烬中等你",
+            "href":"#"
+        }
+    ],
+    "MenuTabMovs":
+	{
+		"recent_updates":[
+			{
+				"img_src":"http://10wallpaper.com/wallpaper/medium/1801/2018_Ralph_Breaks_the_Internet_Wreck-It_Ralph_2_medium.jpg",
+				"e_text":"《无敌破坏王2》破坏王大闹互联网",
+				"c_text":"Ralph Breaks The Internet"
+			},
+			{
+				"img_src":"http://10wallpaper.com/wallpaper/medium/1801/2018_Maze_Runner_The_Death_Cure_4K_medium.jpg",
+				"e_text":"《移动迷宫3：死亡解药》",
+				"c_text":"迷宫逃脱和末日丧尸的生死考验"
+			},
+			{
+				"img_src":"http://10wallpaper.com/wallpaper/medium/1801/Thor_Ragnarok_2017_4k_Movie_Poster_medium.jpg",
+				"e_text":"《雷神3》诸神黄昏",
+				"c_text":"You truly think so little of me. "
+			}
+		],
+		"previous_selection":[
+            {
+				"img_src":"http://10wallpaper.com/wallpaper/medium/1712/A_bad_moms_christmas_2018_Movies_4K_HD_medium.jpg",
+				"e_text":"《坏妈妈的圣诞节》坏妈妈们再度出山",
+				"c_text":"A Bad Mom's Christmas"
+			},
+            {
+				"img_src":"http://10wallpaper.com/wallpaper/medium/1712/Star_Wars_The_Last_Jedi_2017_Movies_4K_medium.jpg",
+				"e_text":"《星球大战8：最后的绝地武士》",
+				"c_text":"Star Wars: The Last Jedi "
+			},
+			{
+				"img_src":"http://10wallpaper.com/wallpaper/medium/1712/Justice_League_Wonder_Woman_Aquaman_4K_HD_Poster_medium.jpg",
+				"e_text":"《正义联盟》他存在的意义不仅是拯救世人",
+				"c_text":"What are your superpowers again? "
+			}
+		]
+    },
+    "movie_items":[
+        {
+            "url":"/item/1",
+            "name":"大鱼海棠",
+            "img_src":"http://static.metacritic.com/images/products/movies/7/b31e7825e251f0dc7847ec5fbf5957ae-250h.jpg"
+        },
+        {
+            "url":"/item/2",
+            "name":"勇敢的心",
+            "img_src":"http://static.metacritic.com/images/products/movies/5/1faec33b2d15d28a7517477044274408-250h.jpg"
+        },
+        {
+            "url":"/item/3",
+            "name":"控方证人",
+            "img_src":"http://static.metacritic.com/images/products/movies/4/2c2baf3b68e5dd689717a1e9f4520a52-250h.jpg"
+        },
+        {
+            "url":"/item/4",
+            "name":"虎口脱险",
+            "img_src":"http://static.metacritic.com/images/products/movies/4/137c1c81c8690a1be39f5a6e31290d05-250h.jpg"
+        },
+        {
+            "url":"/item/5",
+            "name":"荒岛余生",
+            "img_src":"http://static.metacritic.com/images/products/movies/7/b31e7825e251f0dc7847ec5fbf5957ae-250h.jpg"
+        }
+    ],
+    "movie_detail":{
+        "img_src":"http://static.metacritic.com/images/products/movies/8/c444e09869c1c6da79708dd6e215a3cd-250h.jpg",
+        "datatime":"2014-01-01",
+		"actor":[
+			"埃迪·雷德梅恩,",
+            "约翰尼·维加斯,",
+            "凯文·马塔丁,",
+            "迈斯·威廉姆斯,",
+            "Tom Hiddleston,",
+            "吉娜·亚瑟,",
+            "凯凡· 诺瓦克，",
+            "埃迪·雷德梅恩，"
+		],
+		"summary":"早期的时代，当史前生物漫游大地时，早期人类讲述了勇敢的穴居人杜克（Eddie Redmayne）和他最好的朋友Hognob，因为他们把自己的部落团结在一个强大的敌人Lord Nooth（Tom Hiddleston）身上，他的青铜时代城市，以保存他们的家园。",
+		"director":"尼克·帕克",
+		"theme":"冒险， 幻想， 喜剧， 动画， 家庭",
+		"time":"89分钟",
+		"critic_score":{"score":50,"like":25,"hate":50,"common":75},
+		"critic_comment":
+		[
+            {"name":"Lan~die","time":"2007-02-10","score":"80","content":"小王子说：“因为有一朵我们看不到的花儿，星星才显得如此美丽。沙漠之所以美丽，是因为沙漠的某处藏着一口井。” 这片子是献给在现实世界中迷失、畏首畏尾、丢失了童年时代欢愉梦想的人，那条游向远方的大鱼是我们对美的向往。"},
+            {"name":"桃桃淘电影 ","time":"2016-07-08","score":"50","content":"设定野心很大，而实际讲的故事却很小，很无趣，有种这么大设定完全被浪费掉的感觉。"},
+            {"name":"中萧野鹤 ","time":"2016-07-08","score":"65","content":"看见那些情怀粉口口声声说画面真好，美美美，就不能忍了，你特么画工好去办画展啊，做什么电影，电影最重要难道不是故事？"}
+        ],
+        "user_score":{"score":50,"like":25,"hate":76,"common":45},
+		"user_comment":
+		[
+            {"name":"肖旺梓","time":"2016-07-06","score":"65","content":"台词太那啥了，星球、自然规律，不能有点切合“故事背景”的台词么？用：天地之间、四季更替（衰荣更替）？还有那啥“4亿年前”？就不能用“混沌初开”？最不济也是“很久很久以前……”？有文化有科技，其实也挺可怕的，还不如不识字的老奶奶会讲故事。"},
+            {"name":"白衣小楼","time":"2016-07-08","score":"83","content":"还不错，不过中国风夸张成日本风，就像宫崎骏他家儿子宫崎吾朗拍了一部狗血的绿茶婊玛丽苏韩国偶像剧."},
+            {"name":"菠萝包包","time":"2016-07-09","score":"38","content":"价值薄弱，徒有其表。"}
+		]
+    }
+
+}

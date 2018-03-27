@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vue-start
 
 > A Vue.js project
@@ -25,8 +24,4 @@ npm run unit
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# ThoughtWorks-Theater
-This is an online theater...
->>>>>>> 4a8108961cfc875d304f29164f6646bd3f5aaa0f
+
